@@ -1,0 +1,19 @@
+.burger-menu_body {
+    background: #393953;
+}
+
+.b-m_list{
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+    text-align: center;
+    margin-right: 5%;
+    gap: 40px;
+
+    font-family: "Space Mono", serif;
+
+    font-weight: 400;
+    font-size: 1.125em;
+    line-height: 1.5em;
+    letter-spacing: -2.2%;
+}
